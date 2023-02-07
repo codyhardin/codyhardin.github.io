@@ -24,8 +24,9 @@ kramdown:
 minimal_mistakes_skin: "dark"
 
 ## site settings
-title: "Fumbling my way through IT and Cybersecurity. Hopefully learning a thing or two along the way"
+title: "TBA"
 title_separator: "|"
+subtitle: "Fumbling my way through IT and Cybersecurity. Hopefully learning a thing or two along the way"
 
 
 url: https://codyhardin.github.io
@@ -39,6 +40,10 @@ search: true
 author:
   name: "Cody"
   bio: "Ex-Strength Coach, lifelong learner, newbie blogger"
+links:
+  - label: "Linkedin"
+    icon: "fab fa-linkedin"
+    url: https://www.linkedin.com/in/codyh12/
 
 ## footer
 #footer:
