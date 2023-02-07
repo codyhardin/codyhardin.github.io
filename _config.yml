@@ -38,9 +38,7 @@ search: true
 
 ## author
 name: "Cody"
-  #avatar: "/assets/images/bio-photo.jpg"
-  bio: "Ex-Strength Coach, wannabe Hacker, lifelong learner, newbie blogger," # Note: Markdown is allowed
-  #location: ""
+  bio: "Ex-Strength Coach, wannabe Hacker, lifelong learner, newbie blogger," # Note: Markdown is allowed#location: ""
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
