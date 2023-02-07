@@ -39,14 +39,11 @@ search: true
 ## author
 author:
   name: "Cody"
-  bio: "Ex-Strength Coach, wannabe Hacker, lifelong learner, newbie blogger," 
-  # Note: Markdown is allowed 
-  #location: ""
+  bio: "Lifelong learner, newbie blogger, asipiring hacker" # Note: Markdown is allowed 
 links:
   - label: "LinkedIn"
-    icon: "fab fa-linkedin-in"
+    icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/codyh12/"
-
 
 ## footer
 #footer:
