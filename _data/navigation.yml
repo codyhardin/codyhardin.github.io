@@ -1,0 +1,13 @@
+docs:
+  - title: Main Site
+    children:
+      - title: "- Home"
+        url: /
+      - title: "- Posts"
+        url: /years/
+      - title: "- Tags"
+        url: /tags/
+  - title: Projects
+    children: 
+      - title: "- Homelab"
+        url: /homelab/
