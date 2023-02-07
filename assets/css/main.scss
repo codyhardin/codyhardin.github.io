@@ -2,6 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+/* this changes the main body font for everything */
+body {
+  margin: 20px;
+  font: .75em 'Open Sans', sans-serif;
 
 @charset "utf-8";
 
