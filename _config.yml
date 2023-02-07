@@ -37,14 +37,15 @@ date_format: "%Y-%m-%d"
 search: true
 
 ## author
-name: "Cody"
+author:
+  name: "Cody"
   bio: "Ex-Strength Coach, wannabe Hacker, lifelong learner, newbie blogger," 
   # Note: Markdown is allowed 
   #location: ""
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/codyh12/"
+links:
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/codyh12/"
 
 
 ## footer
