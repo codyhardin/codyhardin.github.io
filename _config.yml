@@ -24,9 +24,9 @@ kramdown:
 minimal_mistakes_skin: "dark"
 
 ## site settings
-title: "Cody Hardin"
+title: "Fumbling my way through IT and Cybersecurity. Hopefully learning a thing or two along the way"
 title_separator: "|"
-subtitle: "Fumbling my way through IT and Cybersecurity"
+
 
 url: https://codyhardin.github.io
 baseurl: "/"
@@ -38,7 +38,7 @@ search: true
 ## author
 author:
   name: "Cody"
-  bio: "Lifelong learner and "
+  bio: "Ex-Strength Coach, lifelong learner, newbie blogger"
 
 ## footer
 #footer:
