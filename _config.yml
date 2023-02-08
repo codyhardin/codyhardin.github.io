@@ -41,9 +41,9 @@ author:
   name: "Cody"
   bio: "Lifelong learner, newbie blogger, asipiring hacker" # Note: Markdown is allowed 
 links:
-  - label: "LinkedIn"
-    icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/codyh12/"
+- label: "LinkedIn"
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/codyh12/"
 
 ## footer
 #footer:
