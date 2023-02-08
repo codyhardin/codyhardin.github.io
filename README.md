@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Who am I"
-layout: home
+layout: single
 author_profile: true
 
 ---
