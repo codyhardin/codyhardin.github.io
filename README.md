@@ -1,9 +1,8 @@
 ---
 permalink: /
 title: "Who am I"
-layout: single
+layout: default
 author_profile: true
-
 ---
 I’m a recent cybersecurity graduate looking to transition to the field of Cybersecurity following a career change from the health and fitness realm. I currently work on-site on a help desk supporting 150+ users in an unclassified DoD environment consisting primarily of Windows infrasturcure. My responsibilities include desktop support, printer troubleshooting, and basic network support. 
 

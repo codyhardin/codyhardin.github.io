@@ -39,14 +39,18 @@ search: true
 ## author
 author:
   name: "Cody"
-  bio: "Lifelong learner, newbie blogger, asipiring hacker" # Note: Markdown is allowed 
-links:
-- label: "LinkedIn"
-  url: "https://www.linkedin.com/in/codyh12/"
+  bio: "Lifelong learner, newbie blogger, asipiring hacker" 
+  links:
+-   label: "LinkedIn"
+    icon: "fa fa-linkedin-square"
+    url: "https://www.linkedin.com/in/codyh12/"
 
 ## footer
-#footer:
-
+footer:
+  links:
+  - label: "LinkedIn"
+    icon: "fa fa-linkedin-square"
+    url: "https://www.linkedin.com/in/codyh12/"
 
 ## frontmatter
 defaults:
