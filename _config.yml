@@ -40,17 +40,17 @@ search: true
 author:
   name: "Cody"
   bio: "Lifelong learner, newbie blogger, asipiring hacker" 
-  links:
--   label: "LinkedIn"
-    icon: "fa fa-linkedin-square"
-    url: "https://www.linkedin.com/in/codyh12/"
+links:
+- label: "LinkedIn"
+  icon: "fa fa-linkedin-square"
+  url: "https://www.linkedin.com/in/codyh12/"
 
 ## footer
 footer:
-  links:
-  - label: "LinkedIn"
-    icon: "fa fa-linkedin-square"
-    url: "https://www.linkedin.com/in/codyh12/"
+links:
+- label: "LinkedIn"
+  icon: "fa fa-linkedin-square"
+  url: "https://www.linkedin.com/in/codyh12/"
 
 ## frontmatter
 defaults:
