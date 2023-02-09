@@ -42,14 +42,14 @@ author:
   bio: "Lifelong learner, newbie blogger, asipiring hacker" 
   links:
   - label: "LinkedIn"
-    icon: "fa fa-linkedin-square"
+    icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/codyh12/"
 
 ## footer
 footer:
   links:
   - label: "LinkedIn"
-    icon: "fa fa-linkedin-square"
+    icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/codyh12/"
 
 ## frontmatter
