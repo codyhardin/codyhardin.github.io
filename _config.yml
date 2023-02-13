@@ -77,3 +77,4 @@ defaults:
       show_date: true
       sidebar:
         nav: "docs"
+paginate: 5
