@@ -4,14 +4,10 @@ title: "Who am I"
 layout: home
 author_profile: true
 ---
-I’m a recent cybersecurity graduate looking to transition to the field of Cybersecurity following a career change from the health and fitness realm. I currently work on-site on a help desk supporting 150+ users in an unclassified DoD environment consisting primarily of Windows infrasturcure. My responsibilities include desktop support, printer troubleshooting, and basic network support. 
+I’m a recent cybersecurity graduate looking to pivot to the field of Cybersecurity from the IT side of things. I currently work on-site on a help desk supporting 75+ users in an unclassified DoD environment consisting primarily of Windows infrastructure. My responsibilities include desktop support, printer troubleshooting, and basic network support. 
 
-Outside of work, I spend time working through CTFs on sites such as tryhackme.com and test concepts in [my homelab](/homelab) when I come across something new or novel I want to dive deeper into.
+I'm working on building out [my homelab](/homelab) as a place to poke, prod, and otherwise tinker with technologies, tools, and whatever else interests me. 
 
 --- 
 ### Purpose
-This blog serves primarily as a sounding board for anything I've come across in my studies or on the job that I need to spend more time working through. 
-
-Having only been within this space for about a year and a half at the time of writing, blogs have been hugely beneficial to me as a way to digest and learn from other people’s mishaps, mistakes, and processes.
-
-I've learned through a past career as a coach, that one of the best ways to test how well you know something is by explaining it to someone else. I just might be rambling to a computer but it's a start.
+This blog is really an excuse for me to talk through and spend time exploring IT and/or Cybersecurity concepts that I find interesting or flat-out don't understand yet. From a past life as a Strength and Conditioning coach, I spend a lot of time creating content for our members and my athletes. I enjoyed that process of planning, writing, and revising those messages and training sessions. That process really helped me to better understand what I was teaching them and I hope this blogs serves much the same purpose, albeit in a differetn domain.
