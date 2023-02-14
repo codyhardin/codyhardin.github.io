@@ -5,20 +5,23 @@ layout: single
 author_profile: true
 ---
 ## How It Started
-Early on in my current position, I was fortunate enough to hit if off with one of our sys admins who was very adamant on the powers of a blog and homelab. As I was still taking classes at the time, he suggested a homelab as a way of diving into any tools ot technologies that I wanted to poke around in more than what was offered in class labs/textbooks.
+In my current position, I was fortunate enough to connect with one of our sys admins and we got to talking about Raspberry Pi's and some simple homelab things I could do as I wanted to get more comfortable with Linux since I don't touch it as part of my job duties. Between ideas that came from classwork and some individual training I've taken, I began leaning more into virtual machines as a way to build out temporary machines much easier than dealing with multiple Pi's and extra hardware.
 
-Our talks naturally started on Raspberry Pi projects like smart displays or a simple network sensor with [Zeek](https://zeek.org/) & [Rita](https://github.com/activecm/rita) but given how expensive Pi boards are currently, I've' shifted my focus to VMs. It just so happens that pandemic me had the foresight to build out a gaming pc that is incredibly overspecced... Who am I to turn down Black Friday deals when they come up? With that computer, I'm able to handle 4-5 reasonable VMs depending on scale
+It just so happens that pandemic me had the foresight to build out a gaming pc that is incredibly overspecced... Who am I to turn down Black Friday deals when they come up? With that computer, I'm able to handle 4-5 reasonable VMs depending on scale.
 
 ## Goals
-My current focus is building out an environment that's scalable gives me the ability to easily see both the offensive and defensive perspective during scenarios.
+My current project is sitting down and actually moving the miscellaneous machines I've accumulated during my program and studies to VMWare Workstation Pro and consolidating to a core network. At one point I think I had 5 or 6 different Linux machines to play around with as I couldn't figure out which flavor worked best for me. (Ubuntu ended up doing it for me) as I've been tempted to play around with the [Blackbuntu](https://blackbuntu.org/) security offshoot and see if they can sway me away from Kali
 
-Up until this point, I've been using [Kali](https://www.kali.org) and [Metasploitable2](https://information.rapid7.com/metasploitable-download.html) but am in the process of finishing the first iteration of what I'm sure will be an ever-evolving lab:
-1. Kali Linux for an attack machine
-2. PfSense Router/Firewall
-3. Windows Workstation
-4. Windows Server 2019 as AD
-5. Linux Server - Possibly a Metasploitable or Vulnhub machine right now
-6. [SecurityOnion](https://securityonionsolutions.com/) as an analyst machine
+By this spring I hope to have that list of machines narrowed down to include the following and allow for room to easily branch out if I ever want to dive into something like forensics or malware analysis.
+    1. Kali Linux to serve as an attack machine
+    2. Vulnerable Linux workstation/server
+        - I'm leaning towards [Metasploitable2](https://information.rapid7.com/metasploitable-download.html) for my vulnerable linux machine as I've had some experience with it as part of classwork
+    3. PfSense to serve as Router/Firewall
+        - Networking is probably my biggest weakness currently and something I want to really work on improving. Between VLANs and firewall rules, this seems to fit the bill
+    4. [SecurityOnion](https://securityonionsolutions.com/)
+        - I wanted to avoid spinning up and managing a lot of separate machines at once and SecurityOnion offers probably the closest to a one-stop-shop as I can find for a defensive or Analyst machine akin to what Kali is to the offensive world
+    5. Vulnerable Windows environment
+        - This is most likely a ways away. Ideally I want to build this section out to resemble an AD environment akin to what Heath Adams has in his [Practical Ethical Hacking course](https://academy.tcm-sec.com/)
 
 ### Layout
-Once everything is at least somewhat up and running, I'll be bale ot get a Network Map up here as a reference
+To be completed once I get everything transitioned and working together
