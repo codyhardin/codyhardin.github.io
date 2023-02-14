@@ -1,9 +1,10 @@
 ---
 permalink: /
+title: "Who I Am"
 layout: home
 author_profile: true
 ---
-### Who I Am
+
 I’m a recent cybersecurity graduate working to pivot to the Cybersecurity field from IT and a past life as a Strength Coach and Personal Trainer. 
 
 I have 1.5 years experience working as part of a helpdesk supporting a Windows environment and 75+ users across a hybrid workspace. My responsibilities include local IT/AV/printer troubleshooting, user account management, and basic network support in a DoD environment.
